@@ -1,0 +1,54 @@
+Protel Design System Design Rule Check
+PCB File : E:\AD20 项目及工具\H6\RK3288\RK3288.PcbDoc
+Date     : 2024/6/30
+Time     : 17:41:43
+
+Processing Rule : Clearance Constraint (Gap=5mil) (ISVIA),(InPoly)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
+   Violation between Clearance Constraint: (Collision < 4mil) Between Arc (8675.532mil,9682.283mil) on Keep-Out Layer And Pad J4-11(8658.229mil,9716.574mil) on Top 
+   Violation between Clearance Constraint: (3.645mil < 4mil) Between Arc (8951.016mil,10965.248mil) on Keep-Out Layer And Pad J5-4(8919.882mil,10916.102mil) on Multi-Layer 
+   Violation between Clearance Constraint: (3.761mil < 4mil) Between Arc (8951.016mil,11185.721mil) on Keep-Out Layer And Pad J5-5(8919.882mil,11235mil) on Multi-Layer 
+   Violation between Clearance Constraint: (3.801mil < 4mil) Between Arc (8951.016mil,11185.721mil) on Keep-Out Layer And Track (8944.427mil,11210.455mil)(8944.427mil,11211.387mil) on ART04 
+   Violation between Clearance Constraint: (Collision < 4mil) Between Arc (8951.016mil,11185.721mil) on Keep-Out Layer And Track (8944.427mil,11210.455mil)(8968mil,11186.882mil) on ART04 
+   Violation between Clearance Constraint: (Collision < 4mil) Between Arc (8951.016mil,11185.721mil) on Keep-Out Layer And Track (8968mil,11048mil)(8968mil,11186.882mil) on ART04 
+   Violation between Clearance Constraint: (3.472mil < 4mil) Between Pad J2-9(8562.598mil,10849.173mil) on Multi-Layer And Track (8502.197mil,10815.642mil)(8672.276mil,10815.642mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 4mil) Between Pad J4-11(8658.229mil,9716.574mil) on Top And Track (8616.371mil,9713.673mil)(8675.532mil,9713.673mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 4mil) Between Pad J5-1(8614.764mil,11235mil) on Multi-Layer And Track (8541.568mil,11205.406mil)(8807.316mil,11205.406mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (3.339mil < 4mil) Between Pad J5-2(8665.157mil,10916.102mil) on Multi-Layer And Track (8541.568mil,10945.563mil)(8807.316mil,10945.563mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 4mil) Between Pad J5-3(8725mil,11235mil) on Multi-Layer And Track (8541.568mil,11205.406mil)(8807.316mil,11205.406mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 4mil) Between Pad J5-4(8919.882mil,10916.102mil) on Multi-Layer And Track (8854.56mil,10945.563mil)(8951.016mil,10945.563mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 4mil) Between Pad J5-5(8919.882mil,11235mil) on Multi-Layer And Track (8854.56mil,11205.406mil)(8951.016mil,11205.406mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 4mil) Between Track (8616.371mil,9713.673mil)(8675.532mil,9713.673mil) on Keep-Out Layer And Track (8658.229mil,9716.574mil)(8668.655mil,9727mil) on Top 
+   Violation between Clearance Constraint: (3.862mil < 4mil) Between Track (8797.867mil,10623.138mil)(8863.862mil,10623.138mil) on ART03 And Via (8827mil,10637mil) from Top to Bottom 
+   Violation between Clearance Constraint: (1.48mil < 4mil) Between Track (8854.56mil,11205.406mil)(8951.016mil,11205.406mil) on Keep-Out Layer And Track (8920.813mil,11235mil)(8944.427mil,11211.387mil) on ART04 
+   Violation between Clearance Constraint: (0.549mil < 4mil) Between Track (8854.56mil,11205.406mil)(8951.016mil,11205.406mil) on Keep-Out Layer And Track (8944.427mil,11210.455mil)(8944.427mil,11211.387mil) on ART04 
+   Violation between Clearance Constraint: (Collision < 4mil) Between Track (8854.56mil,11205.406mil)(8951.016mil,11205.406mil) on Keep-Out Layer And Track (8944.427mil,11210.455mil)(8968mil,11186.882mil) on ART04 
+Rule Violations :18
+
+Processing Rule : Clearance Constraint (Gap=10mil) (INPOLY),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=3.5mil) (WithinRoom('ROOMFLASH') or WithinRoom('Roomddr')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=4mil) (InNetClass('DDRALL')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=10mil) (Conductor Width=6mil) (Air Gap=8mil) (Entries=4) (All)
+Rule Violations :0
+
+
+Violations Detected : 18
+Waived Violations : 0
+Time Elapsed        : 00:00:02

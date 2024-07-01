@@ -1,0 +1,607 @@
+Altium Designer Pick and Place Locations
+E:\AD20 ÏîÄ¿¼°¹¤¾ß\H6\RK3288\Project Outputs for RK3288\Pick Place for RK3288.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       30/06/24
+Time:       18:06
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator      Comment                 Layer       Footprint       Center-X(mm) Center-Y(mm) Rotation Description                                                                       
+D1              PMEG3030EP              TopLayer    DO214AC         236.0930mm   267.2030mm   90       "RoHS 1.0A SURFACE MOUNT SCHOTTKY BARRIER RECTIFIER 1N5819"                       
+R42             NC                      BottomLayer r0402           323.7728mm   245.5821mm   360      ""                                                                                
+C132            10uF                    TopLayer    C0603           331.1896mm   235.2636mm   270      ""                                                                                
+C99             0.1uF                   BottomLayer c0402           314.8040mm   239.6744mm   360      ÌùÆ¬µçÈÝ                                                                              
+R16             10K                     BottomLayer r0402           280.6954mm   253.1872mm   360      ÌùÆ¬µç×è                                                                              
+R40             NC                      TopLayer    r0402           304.8508mm   244.8560mm   360      ""                                                                                
+U2              RC5T619-1017(RK3288)    TopLayer    CSP0608-80      282.7476mm   253.7870mm   90       ""                                                                                
+P2              TEST                    BottomLayer T-0_7           259.8934mm   266.5985mm   180      ""                                                                                
+C192            0.1uF                   BottomLayer c0402           302.1040mm   240.0046mm   360      CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C103            0.1uF                   BottomLayer c0402           324.6374mm   244.2718mm   180      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+R159            0R                      BottomLayer r0402           371.7000mm   260.6887mm   180      "ROHS CHIP RES 4.7K 1/16W 5%"                                                     
+R149            NC/0R                   TopLayer    r0402           371.7000mm   264.3717mm   180      "ROHS CHIP RES 4.7K 1/16W 5%"                                                     
+L3              1uH/1.5A                TopLayer    IND-3X3         277.2112mm   260.1863mm   180      ""                                                                                
+C197            2.2uF                   TopLayer    C0603           254.4572mm   261.3914mm   180      "RoHS CHIP CAP 2.2uF +10/-10% X5R"                                                
+S3              SHIELD                  TopLayer    0_9MM_SHIELD    351.0280mm   253.7460mm   270      ""                                                                                
+S3              SHIELD                  TopLayer    0_9MM_SHIELD    368.3000mm   253.7460mm   270      ""                                                                                
+S3              SHIELD                  TopLayer    0_9MM_SHIELD    335.9150mm   267.0810mm   180      ""                                                                                
+S3              SHIELD                  TopLayer    0_9MM_SHIELD    312.2640mm   267.0810mm   180      ""                                                                                
+S3              SHIELD                  TopLayer    0_9MM_SHIELD    349.5040mm   258.3180mm   270      ""                                                                                
+S3              SHIELD                  TopLayer    0_9MM_SHIELD    299.2120mm   239.1410mm   270      ""                                                                                
+S3              SHIELD                  TopLayer    0_9MM_SHIELD    299.2120mm   258.3180mm   270      ""                                                                                
+S3              SHIELD                  TopLayer    0_9MM_SHIELD    312.2930mm   228.6000mm   180      ""                                                                                
+S3              SHIELD                  TopLayer    0_9MM_SHIELD    335.9150mm   228.6000mm   180      ""                                                                                
+S3              SHIELD                  TopLayer    0_9MM_SHIELD    349.5040mm   239.1410mm   270      ""                                                                                
+S3              SHIELD                  TopLayer    0_9MM_SHIELD    360.0450mm   228.6000mm   180      ""                                                                                
+S3              SHIELD                  TopLayer    0_9MM_SHIELD    360.0450mm   259.9690mm   180      ""                                                                                
+S3              SHIELD                  TopLayer    0_9MM_SHIELD    368.3000mm   239.1410mm   270      ""                                                                                
+S3              SHIELD                  TopLayer    0_9MM_SHIELD    351.0280mm   239.1410mm   270      ""                                                                                
+S3              SHIELD                  TopLayer    0_9MM_SHIELD    282.3210mm   267.0810mm   180      ""                                                                                
+S3              SHIELD                  TopLayer    0_9MM_SHIELD    297.9420mm   258.3200mm   270      ""                                                                                
+S3              SHIELD                  TopLayer    0_9MM_SHIELD    267.7160mm   258.3180mm   270      ""                                                                                
+S3              SHIELD                  TopLayer    0_9MM_SHIELD    297.9420mm   239.1410mm   270      ""                                                                                
+S3              SHIELD                  TopLayer    0_9MM_SHIELD    282.3210mm   228.6000mm   180      ""                                                                                
+S3              SHIELD                  TopLayer    0_9MM_SHIELD    267.7160mm   239.1410mm   270      ""                                                                                
+Y3              37.4MHz-10ppm           TopLayer    CRY-D3225       263.4950mm   246.4696mm   90       "Crystal,24.000MHz,+/-20ppm,12pF,SMD3225,-10¡ãC ~ +60   ¡ãC"                        
+Y2              24M-30ppm               TopLayer    CRY-D3225       302.0060mm   246.6086mm   90       ""                                                                                
+Y1              32.768K                 TopLayer    CRY-MC146       292.4628mm   262.4078mm   90       "Crystal,32.768KHz,+/-30ppm,12pF,MC146,-10¡ãC ~ +60   ¡ãC"                          
+U25             1XTW26000CGA            TopLayer    CRY-D3225       243.2050mm   241.6048mm   270      "1XTW26000CGA  KDS TCXO 26MHZ 1.8V 0.5PPM ,SMD3225"                               
+U24             AP6476                  TopLayer    AP6XXX          252.1060mm   241.9441mm   360      WIFI&BT                                                                           
+U23             SY7203                  TopLayer    DFN3X3-10       357.5520mm   232.2750mm   90       ""                                                                                
+U22             OV2659                  TopLayer    AXT524124       239.7760mm   276.6060mm   180      ""                                                                                
+U20             NC/PT5108E23E-18        TopLayer    SOT25           336.9310mm   262.8900mm   360      ""                                                                                
+U19             INAND                   TopLayer    INAND_169       319.2340mm   258.7510mm   270      "NAND Flash,H26M54001BKR,2.7V,3.3V,3.6V,128G,N/A,-25¡æ~85¡æ,FBGA-169P"              
+U18             NAND_FLASH              TopLayer    TSOP1-48        319.0240mm   258.8260mm   270      "NAND Flash,2.7V,3.3V,3.6V,2G*8,N/A,-40¡æ~85¡æ,TSOP-48P"                            
+U17             AW8110CSR               TopLayer    CSP9            362.9660mm   251.7220mm   270      "Class D Audio AMP"                                                               
+U16             AW8110CSR               TopLayer    CSP9            362.9660mm   257.0480mm   270      "Class D Audio AMP"                                                               
+U15             ALC5616                 TopLayer    ALC5616_QFN32   248.6660mm   260.7818mm   360      "CODEC IC"                                                                        
+U14             LSM330TR                TopLayer    LSM330          305.0032mm   238.3282mm   0        ""                                                                                
+U13             HAL48                   TopLayer    SOT23           303.2682mm   242.0112mm   270      "Trans NPN,SS8050,25V,1500mA,10~60@Vce=1V,Ic=500mA, SOT-23"                       
+U12             AK8963C                 TopLayer    BAG14-2X2       306.8542mm   242.1732mm   0        "3-axis Electronic Compoass,AK8963C,2.4V~3.6V,BGA14,-40¡ãC~ +85  ¡ãC"               
+U11             LSM303D/LIS3DH/MMA8452Q TopLayer    LGA16           304.9792mm   233.5022mm   270      "G_Sensor,LIS3DH/MMA8452Q,1.95V~3.6V,LGA-16,3X3X1.0,-40¡ãC ~ +85¡ãC"                
+U10             PT5108E23E-18           TopLayer    SOT25           337.7692mm   256.1290mm   180      LDO,PT5108E23E-33,VINmax=5.5V,Vout=3.3V,+/-2%,500mA,SOT-23-5                      
+U9              K3PE0E000E              TopLayer    FBGA220-14X14   339.5980mm   241.3000mm   180      ""                                                                                
+U8              MCU_RK3288              TopLayer    BGA636_1        319.7992mm   240.9750mm   180      ""                                                                                
+U7              SY6280AAC               TopLayer    SOT25           234.5990mm   261.9350mm   270      "Power switch,LPW5206H,2.4V~5.5V,SOT23-5,-40¡ãC~+ 85¡ãC"                            
+U6              SY7152ABC               TopLayer    SOT26           232.0798mm   269.3924mm   180      "SY7208/TCS9208/LP6218 High Efficiency 1MHz, 2A Step Up Regulator"                
+U4              PT5128E23F-E            TopLayer    SOT26           262.8392mm   256.1082mm   360      ""                                                                                
+U3              SYR827                  TopLayer    WLCSP-20        285.5626mm   239.7126mm   0        ""                                                                                
+U1              SYR828                  TopLayer    WLCSP-20        285.6516mm   233.1656mm   0        ""                                                                                
+TESA15R0V09B1X1 ED?                     TopLayer    E0201           229.0318mm   283.6672mm   360      "ESD Component,5V,30P,SMD,0402"                                                   
+T41             TEST                    BottomLayer T-0_7           368.9604mm   264.4394mm   90       TEST                                                                              
+T40             TEST                    BottomLayer T-0_7           368.9604mm   265.8110mm   90       TEST                                                                              
+T39             TEST                    BottomLayer T-0_7           371.9670mm   267.4019mm   90       TEST                                                                              
+T38             TEST                    BottomLayer T-0_7           374.6500mm   260.3500mm   90       TEST                                                                              
+T37             TEST                    BottomLayer T-0_7           369.2398mm   259.1816mm   90       TEST                                                                              
+T36             TEST                    BottomLayer T-0_7           368.9604mm   263.0678mm   90       TEST                                                                              
+T35             TEST                    BottomLayer T-0_7           378.7140mm   232.0798mm   90       TEST                                                                              
+T34             TEST                    BottomLayer T-0_7           371.7798mm   228.8794mm   90       TEST                                                                              
+T33             TEST                    BottomLayer T-0_7           370.9162mm   231.3686mm   270      TEST                                                                              
+T32             TEST                    BottomLayer T-0_7           370.9570mm   232.5878mm   90       TEST                                                                              
+T31             TEST                    BottomLayer T-0_7           370.9570mm   233.7562mm   90       TEST                                                                              
+T30             TEST                    BottomLayer T-0_7           378.7140mm   234.5690mm   90       TEST                                                                              
+T29             TEST                    BottomLayer T-0_7           363.1438mm   230.6828mm   90       TEST                                                                              
+T28             TEST                    BottomLayer T-0_7           370.9570mm   234.9246mm   90       TEST                                                                              
+T27             TEST                    BottomLayer T-0_7           361.3404mm   243.1034mm   90       TEST                                                                              
+T26             TEST                    BottomLayer T-0_7           370.9345mm   236.0930mm   90       TEST                                                                              
+T25             TEST                    BottomLayer T-0_7           374.2436mm   239.3188mm   90       TEST                                                                              
+T24             TEST                    BottomLayer T-0_7           370.9345mm   237.2614mm   90       TEST                                                                              
+T23             TEST                    BottomLayer T-0_7           370.9345mm   238.4298mm   90       TEST                                                                              
+T22             TEST                    BottomLayer T-0_7           370.9345mm   239.5982mm   90       TEST                                                                              
+T21             TEST                    BottomLayer T-0_7           378.7140mm   235.9660mm   90       TEST                                                                              
+T20             TEST                    BottomLayer T-0_7           375.8184mm   237.9980mm   90       TEST                                                                              
+T19             TEST                    BottomLayer T-0_7           370.9345mm   240.7666mm   90       TEST                                                                              
+T18             TEST                    BottomLayer T-0_7           375.8184mm   231.3940mm   90       TEST                                                                              
+T17             TEST                    BottomLayer T-0_7           329.7936mm   253.1618mm   90       test                                                                              
+T16             TEST                    BottomLayer T-0_7           325.8820mm   257.9370mm   90       test                                                                              
+T15             TEST                    BottomLayer T-0_7           308.2036mm   263.8044mm   90       test                                                                              
+T14             TEST                    BottomLayer T-0_7           311.8866mm   259.7658mm   180      test                                                                              
+T13             TEST                    BottomLayer T-0_7           371.9576mm   249.3264mm   90       ""                                                                                
+T12             TEST                    BottomLayer T-0_7           371.9576mm   250.5456mm   90       ""                                                                                
+T11             TEST                    BottomLayer T-0_7           371.9576mm   251.7140mm   90       ""                                                                                
+T10             TEST                    BottomLayer T-0_7           371.9576mm   252.9078mm   90       ""                                                                                
+T9              TEST                    BottomLayer T-0_7           357.1494mm   265.4300mm   180      ""                                                                                
+T8              TEST                    BottomLayer T-0_7           360.1974mm   265.3792mm   180      ""                                                                                
+T7              TEST                    BottomLayer T-0_7           314.2595mm   232.2207mm   360      TEST                                                                              
+T6              TEST                    BottomLayer T-0_7           309.0681mm   236.3207mm   360      TEST                                                                              
+T5              TEST                    BottomLayer T-0_7           312.4454mm   237.7948mm   360      TEST                                                                              
+T4              TEST                    BottomLayer T-0_7           327.0250mm   245.2878mm   270      TEST                                                                              
+T3              TEST                    BottomLayer T-0_7           324.3295mm   240.8375mm   270      TEST                                                                              
+S8              SHIELD                  TopLayer    0_9MM_SHIELD    257.5560mm   261.1846mm   90       ""                                                                                
+S7              SHIELD                  TopLayer    0_9MM_SHIELD    240.1570mm   261.1846mm   90       ""                                                                                
+S6              SHIELD                  TopLayer    0_9MM_SHIELD    248.6950mm   267.7160mm   180      ""                                                                                
+S5              SHIELD                  TopLayer    0_9MM_SHIELD    266.3190mm   243.0562mm   90       ""                                                                                
+S4              SHIELD                  TopLayer    0_9MM_SHIELD    252.3490mm   252.6792mm   180      ""                                                                                
+S3              SHIELD                  TopLayer    0_9MM_SHIELD    252.3490mm   233.1212mm   180      ""                                                                                
+S2              SHIELD                  TopLayer    0_9MM_SHIELD    240.1570mm   243.0562mm   90       ""                                                                                
+S1              SHIELD                  TopLayer    0_9MM_SHIELD    248.6660mm   254.0508mm   180      ""                                                                                
+R178            0R                      BottomLayer r0402           247.1130mm   242.1636mm   180      "RES,thick film,33Ohm,+/-5%,1/16W,SMD0402"                                        
+R177            NC/0R                   BottomLayer r0402           247.1130mm   240.9952mm   180      "RES,thick film,33Ohm,+/-5%,1/16W,SMD0402"                                        
+R176            100K                    BottomLayer r0402           247.1166mm   246.8372mm   360      "ROHS CHIP RES 100K 1/16W +/-5%"                                                  
+R175            0R                      BottomLayer r0402           247.1166mm   245.6688mm   180      "ROHS CHIP RES 200 Ohm 1/16W +/-5%"                                               
+R174            100R                    TopLayer    r0402           259.8420mm   245.4656mm   270      "ROHS CHIP RES 100 Ohm 1/16W +/-5%"                                               
+R173            33R                     BottomLayer r0402           252.0696mm   249.9142mm   90       "RES,thick film,33Ohm,+/-5%,1/16W,SMD0402"                                        
+R172            33R                     BottomLayer r0402           253.2888mm   249.9142mm   90       "RES,thick film,33Ohm,+/-5%,1/16W,SMD0402"                                        
+R171            33R                     BottomLayer r0402           254.5080mm   249.9142mm   90       "RES,thick film,33Ohm,+/-5%,1/16W,SMD0402"                                        
+R170            33R                     BottomLayer r0402           255.7272mm   249.9142mm   90       "RES,thick film,33Ohm,+/-5%,1/16W,SMD0402"                                        
+R169            33R                     BottomLayer r0402           249.6312mm   249.9142mm   90       "RES,thick film,33Ohm,+/-5%,1/16W,SMD0402"                                        
+R168            33R                     BottomLayer r0402           250.8504mm   249.9142mm   90       "RES,thick film,33Ohm,+/-5%,1/16W,SMD0402"                                        
+R167            10K                     BottomLayer r0402           254.6782mm   235.6747mm   270      "ROHS CHIP RES 10K 1/16W +/-5%"                                                   
+R166            10K                     BottomLayer r0402           255.8466mm   235.6711mm   270      "ROHS CHIP RES 10K 1/16W +/-5%"                                                   
+R165            NC/10K                  BottomLayer r0402           253.2888mm   252.1204mm   270      "ROHS CHIP RES 10K 1/16W +/-5%"                                                   
+R164            NC/10K                  BottomLayer r0402           254.5080mm   252.1204mm   270      "ROHS CHIP RES 10K 1/16W +/-5%"                                                   
+R163            NC/10K                  BottomLayer r0402           255.7272mm   252.1204mm   270      "ROHS CHIP RES 10K 1/16W +/-5%"                                                   
+R162            NC/10K                  BottomLayer r0402           249.6312mm   252.1204mm   270      "ROHS CHIP RES 10K 1/16W +/-5%"                                                   
+R161            NC/10K                  BottomLayer r0402           250.8504mm   252.1204mm   270      "ROHS CHIP RES 10K 1/16W +/-5%"                                                   
+R160            0R                      BottomLayer r0402           371.7000mm   259.4610mm   180      "ROHS CHIP RES 4.7K 1/16W 5%"                                                     
+R158            0R                      BottomLayer r0402           371.7000mm   261.9163mm   180      "ROHS CHIP RES 4.7K 1/16W 5%"                                                     
+R157            0R                      BottomLayer r0402           371.7000mm   263.1440mm   180      "ROHS CHIP RES 4.7K 1/16W 5%"                                                     
+R156            0R                      BottomLayer r0402           371.7000mm   264.3717mm   180      "ROHS CHIP RES 4.7K 1/16W 5%"                                                     
+R155            0R                      BottomLayer R0402           375.9962mm   263.6520mm   360      "ROHS CHIP RES 4.7K 1/16W 5%"                                                     
+R154            0R                      BottomLayer R0402           371.7000mm   265.6078mm   180      "ROHS CHIP RES 4.7K 1/16W 5%"                                                     
+R153            NC/0R                   TopLayer    r0402           371.7000mm   259.4610mm   180      "ROHS CHIP RES 4.7K 1/16W 5%"                                                     
+R152            NC/0R                   TopLayer    r0402           371.7000mm   260.6887mm   180      "ROHS CHIP RES 4.7K 1/16W 5%"                                                     
+R151            NC/0R                   TopLayer    r0402           371.7000mm   261.9163mm   180      "ROHS CHIP RES 4.7K 1/16W 5%"                                                     
+R150            NC/0R                   TopLayer    r0402           371.7000mm   263.1440mm   180      "ROHS CHIP RES 4.7K 1/16W 5%"                                                     
+R148            NC/0R                   TopLayer    R0402           371.7036mm   265.5824mm   180      "ROHS CHIP RES 4.7K 1/16W 5%"                                                     
+R147            10K                     TopLayer    r0402           355.9810mm   243.0780mm   90       "NC/ROHS CHIP RES 10K 1/16W +/-5%"                                                
+R146            4.7K                    BottomLayer r0402           369.5990mm   261.9163mm   360      "ROHS CHIP RES 4.7K 1/16W 5%"                                                     
+R145            4.7K                    BottomLayer r0402           369.5990mm   260.6887mm   360      "ROHS CHIP RES 4.7K 1/16W 5%"                                                     
+R144            22K                     TopLayer    r0402           354.7110mm   243.0780mm   270      "NC/ROHS CHIP RES 22K 1/16W +/-5%"                                                
+R143            330K                    TopLayer    r0402           360.7090mm   232.6640mm   180      "ROHS CHIP RES 4.7K 1/16W 5%"                                                     
+R142            330K                    BottomLayer r0402           361.5944mm   233.9594mm   180      "ROHS CHIP RES 4.7K 1/16W 5%"                                                     
+R141            10K                     TopLayer    r0402           355.9810mm   245.2080mm   270      "NC/ROHS CHIP RES 10K 1/16W +/-5%"                                                
+R140            100K                    TopLayer    r0402           354.7110mm   245.2370mm   90       "NC/ROHS CHIP RES 100K 1/16W +/-5%"                                               
+R139            2R                      TopLayer    R1206           364.5930mm   230.7590mm   180      "ROHS CHIP RES 4.7R 1/4W 5%"                                                      
+R138            2R                      TopLayer    R1206           364.6410mm   233.2990mm   180      "ROHS CHIP RES 4.7R 1/4W 5%"                                                      
+R137            56K                     TopLayer    r0402           360.7090mm   231.3940mm   360      "ROHS CHIP RES 82K 1/16W 5%"                                                      
+R136            100K                    BottomLayer r0402           354.1522mm   233.2482mm   360      "ROHS CHIP RES 4.7K 1/16W 5%"                                                     
+R135            100K                    BottomLayer r0402           373.1768mm   230.1240mm   360      ""                                                                                
+R134            100K                    BottomLayer r0402           370.7166mm   230.1748mm   180      ""                                                                                
+R133            4.7K                    TopLayer    r0402           244.7580mm   277.2410mm   180      ""                                                                                
+R132            4.7K                    TopLayer    r0402           244.7580mm   276.0726mm   180      ""                                                                                
+R131            10K                     BottomLayer r0402           241.5937mm   271.5732mm   270      NC                                                                                
+R130            33R                     BottomLayer r0402           241.5625mm   275.3614mm   270      "RES,thick film,22Ohm,+/-5%,1/16W,SMD0402"                                        
+R129            33R                     BottomLayer r0402           239.1015mm   275.3614mm   270      "RES,thick film,22Ohm,+/-5%,1/16W,SMD0402"                                        
+R126            0R                      BottomLayer R0402           335.8896mm   263.0170mm   90       "ROHS CHIP RES 10K 1/16W 5%"                                                      
+R125            NC                      BottomLayer r0402           318.1414mm   261.6350mm   270      NC                                                                                
+R124            33R                     BottomLayer r0402           315.2648mm   258.0894mm   90       NC                                                                                
+R123            10K                     TopLayer    r0402           306.3204mm   257.9370mm   360      "ROHS CHIP RES 10K 1/16W +/-5%"                                                   
+R122            10K                     TopLayer    r0402           332.0070mm   263.1722mm   180      "ROHS CHIP RES 10K 1/16W +/-5%"                                                   
+R121            10K                     TopLayer    r0402           332.0070mm   262.0066mm   180      "ROHS CHIP RES 10K 1/16W +/-5%"                                                   
+R120            10K                     TopLayer    r0402           332.0070mm   260.8411mm   180      "ROHS CHIP RES 10K 1/16W +/-5%"                                                   
+R119            10K                     TopLayer    r0402           332.0070mm   259.6755mm   180      "ROHS CHIP RES 10K 1/16W +/-5%"                                                   
+R118            10K                     TopLayer    r0402           332.0070mm   258.5099mm   180      "ROHS CHIP RES 10K 1/16W +/-5%"                                                   
+R117            10K                     TopLayer    r0402           332.0070mm   257.3443mm   180      "ROHS CHIP RES 10K 1/16W +/-5%"                                                   
+R116            10K                     TopLayer    r0402           332.0070mm   255.0132mm   180      "ROHS CHIP RES 10K 1/16W +/-5%"                                                   
+R115            10K                     TopLayer    r0402           332.0034mm   256.1787mm   180      "ROHS CHIP RES 10K 1/16W +/-5%"                                                   
+R114            NC                      TopLayer    r0402           332.0070mm   253.8476mm   360      NC                                                                                
+R113            NC                      TopLayer    r0402           332.0070mm   264.3378mm   360      NC                                                                                
+R112            4.7K                    TopLayer    r0402           306.3204mm   263.1440mm   360      "ROHS CHIP RES 4.7K 1/16W +/-5%"                                                  
+R111            30K                     TopLayer    R0402           360.3970mm   250.3424mm   180      "ROHS CHIP RES 30K 1/16W +/-5%"                                                   
+R110            30K                     TopLayer    R0402           358.1680mm   252.9840mm   180      "ROHS CHIP RES 30K 1/16W +/-5%"                                                   
+R109            100K                    TopLayer    r0402           362.6104mm   250.3424mm   180      "RES,thick film,10KOhm,+/-5%,1/16W,SMD0402"                                       
+R108            30K                     TopLayer    R0402           360.3970mm   255.7780mm   180      "ROHS CHIP RES 30K 1/16W +/-5%"                                                   
+R107            30K                     TopLayer    r0402           358.1668mm   258.2847mm   180      "ROHS CHIP RES 30K 1/16W +/-5%"                                                   
+R106            2K2                     TopLayer    r0402           229.3620mm   236.3180mm   270      ÌùÆ¬µç×è                                                                              
+R105            22R                     BottomLayer r0402           231.2380mm   278.9682mm   360      "ROHS CHIP RES 22R 1/16W 5%"                                                      
+R104            22R                     BottomLayer r0402           231.2380mm   277.0378mm   360      "ROHS CHIP RES 22R 1/16W 5%"                                                      
+R103            0R                      BottomLayer R0402           254.2032mm   260.9850mm   180      "ROHS CHIP RES 0R 1/16W 5%"                                                       
+R102            100R                    TopLayer    r0402           231.6480mm   236.3180mm   270      "RES,thick film,10KOhm,+/-5%,1/16W,SMD0402"                                       
+R101            2K2                     TopLayer    r0402           231.6480mm   234.3440mm   90       ""                                                                                
+R100            1K                      BottomLayer r0402           229.1878mm   284.5562mm   180      "RES,thick film,10KOhm,+/-5%,1/16W,SMD0402"                                       
+R99             100K                    BottomLayer r0402           229.1878mm   282.1940mm   180      "RES,thick film,10KOhm,+/-5%,1/16W,SMD0402"                                       
+R98             33R                     TopLayer    r0402           247.1939mm   264.7986mm   270      "ROHS CHIP RES 33 Ohm 1/16W +/-5%"                                                
+R97             33R                     BottomLayer r0402           247.1939mm   264.7986mm   270      "ROHS CHIP RES 33 Ohm 1/16W +/-5%"                                                
+R96             10K                     TopLayer    r0402           246.9557mm   256.5618mm   90       "ROHS CHIP RES 10K 1/16W +/-5%"                                                   
+R95             10K                     TopLayer    r0402           243.6880mm   261.9502mm   360      "ROHS CHIP RES 10K 1/16W +/-5%"                                                   
+R94             33R                     TopLayer    r0402           246.0244mm   264.7986mm   270      "ROHS CHIP RES 33 Ohm 1/16W +/-5%"                                                
+R93             4.7K                    TopLayer    r0402           243.6912mm   263.0932mm   180      "ROHS CHIP RES 0 Ohm 1/16W +/-5%"                                                 
+R92             33R                     BottomLayer r0402           246.0244mm   264.8136mm   270      "ROHS CHIP RES 33 Ohm 1/16W +/-5%"                                                
+R91             4.7K                    TopLayer    r0402           243.6912mm   264.2362mm   180      "ROHS CHIP RES 0 Ohm 1/16W +/-5%"                                                 
+R90             33R                     TopLayer    r0402           249.5296mm   264.7954mm   270      "ROHS CHIP RES 33 Ohm 1/16W +/-5%"                                                
+R89             33R                     TopLayer    r0402           248.3612mm   264.7954mm   270      "ROHS CHIP RES 33 Ohm 1/16W +/-5%"                                                
+R88             0R                      TopLayer    R0402           251.6632mm   256.5364mm   270      "ROHS CHIP RES 0 Ohm 1/16W +/-5%"                                                 
+R87             10K                     BottomLayer r0402           235.6648mm   249.3772mm   180      ""                                                                                
+R86             33R                     BottomLayer r0402           233.6800mm   249.3772mm   180      ""                                                                                
+R85             33R                     BottomLayer r0402           233.6800mm   250.5202mm   180      ""                                                                                
+R84             33R                     BottomLayer r0402           233.6800mm   251.6632mm   180      ""                                                                                
+R83             33R                     BottomLayer r0402           233.6764mm   253.6698mm   180      ""                                                                                
+R82             33R                     BottomLayer r0402           233.6764mm   255.9685mm   180      ""                                                                                
+R81             33R                     BottomLayer r0402           233.6800mm   257.1178mm   180      ""                                                                                
+R80             33R                     BottomLayer r0402           233.6800mm   258.2672mm   180      ""                                                                                
+R79             200K                    BottomLayer r0402           351.5868mm   264.5192mm   90       "RES,thick film,47KOhm,+/-5%,1/16W,SMD0402"                                       
+R78             1K                      BottomLayer r0402           352.7298mm   264.5192mm   270      "RES,thick film,47KOhm,+/-5%,1/16W,SMD0402"                                       
+R77             6.8R                    TopLayer    R0603           362.6104mm   264.1346mm   270      "RES,thick film,43Ohm,+/-1%,1/8W,SMD0805"                                         
+R76             10K                     BottomLayer r0402           305.9430mm   234.5182mm   180      ""                                                                                
+R75             100K                    BottomLayer r0402           302.0786mm   241.1730mm   360      "ROHS CHIP RES 10K 1/16W 1%"                                                      
+R74             1K5                     TopLayer    r0402           301.4182mm   233.3752mm   360      ""                                                                                
+R73             1K5                     TopLayer    r0402           301.4182mm   232.2322mm   360      ""                                                                                
+R72             0R/NC                   BottomLayer r0402           306.4764mm   232.3084mm   90       "NC/ROHS CHIP RES 0R 1/16W +/-5%"                                                 
+R71             0R/NC                   BottomLayer r0402           301.4182mm   233.3752mm   360      "NC/ROHS CHIP RES 0R 1/16W +/-5%"                                                 
+R70             0R                      BottomLayer r0402           301.4182mm   232.2322mm   180      "ROHS CHIP RES 0 Ohm 1/16W +/-5%"                                                 
+R69             NC/0R                   TopLayer    r0402           301.4182mm   234.5182mm   180      "NC/ROHS CHIP RES 0R 1/16W +/-5%"                                                 
+R68             NC                      BottomLayer r0402           314.2710mm   236.0822mm   270      "RES,thick film,10KOhm,+/-5%,1/16W,SMD0402"                                       
+R66             10K%1                   BottomLayer r0402           231.6480mm   241.3254mm   270      "ROHS CHIP RES 10K 1/16W +/-1%"                                                   
+R65             10K                     BottomLayer r0402           228.0158mm   244.5766mm   360      "ROHS CHIP RES 51K 1/16W ¡À5%"                                                     
+R64             1.2M                    BottomLayer r0402           228.0376mm   243.2812mm   180      "ROHS CHIP RES 51K 1/16W ¡À5%"                                                     
+R63             47K                     TopLayer    r0402           228.0630mm   243.2812mm   180      "ROHS CHIP RES 51K 1/16W ¡À5%"                                                     
+R62             22R                     TopLayer    r0402           228.0920mm   240.1570mm   360      "ROHS CHIP RES 51K 1/16W ¡À5%"                                                     
+R61             200R                    BottomLayer r0402           316.3062mm   232.2322mm   180      ""                                                                                
+R60             200R                    BottomLayer r0402           316.3062mm   233.4006mm   180      ""                                                                                
+R59             120K                    BottomLayer r0402           324.0532mm   234.9246mm   180      ÌùÆ¬µç×è                                                                              
+R58             120K                    BottomLayer r0402           323.9770mm   236.0930mm   180      ÌùÆ¬µç×è                                                                              
+R57             1K%1                    BottomLayer r0402           329.8952mm   240.2586mm   360      ÌùÆ¬µç×è                                                                              
+R56             10K%1                   BottomLayer r0402           336.0420mm   249.4026mm   360      ÌùÆ¬µç×è                                                                              
+R55             1K%1                    BottomLayer r0402           329.8952mm   241.4270mm   180      ÌùÆ¬µç×è                                                                              
+R54             10K%1                   TopLayer    r0402           336.8040mm   251.1806mm   360      ÌùÆ¬µç×è                                                                              
+R53             240R%1                  BottomLayer r0402           326.0090mm   242.9002mm   360      ÌùÆ¬µç×è                                                                              
+R52             10K                     TopLayer    r0402           334.2894mm   257.3238mm   90       ÌùÆ¬µç×è                                                                              
+R50             NC                      BottomLayer r0402           331.6478mm   247.3742mm   90       ÌùÆ¬µç×è                                                                              
+R41             10K                     BottomLayer r0402           316.3824mm   241.3036mm   270      "RES,thick film,100KOhm,+/-5%,1/16W,SMD0402"                                      
+R39             22R                     TopLayer    r0402           305.6382mm   246.4852mm   90       ""                                                                                
+R38             1M                      TopLayer    r0402           305.6382mm   248.4882mm   90       ""                                                                                
+R37             15K                     BottomLayer r0402           227.0303mm   266.3226mm   270      "ROHS CHIP RES 15K 1/16W 5%"                                                      
+R36             1K                      BottomLayer r0402           229.3620mm   266.3226mm   270      "ROHS CHIP RES 10K 1/16W 5%"                                                      
+R35             10K                     BottomLayer r0402           225.8771mm   266.3226mm   90       "ROHS CHIP RES 10K 1/16W 5%"                                                      
+R34             0R                      BottomLayer r0402           226.3176mm   274.0152mm   180      "RES,thick film,10KOhm,+/-5%,1/16W,SMD0402"                                       
+R33             0R                      BottomLayer r0402           226.3176mm   272.7452mm   180      "RES,thick film,10KOhm,+/-5%,1/16W,SMD0402"                                       
+R32             10K                     BottomLayer r0402           233.2990mm   260.5750mm   90       "ROHS CHIP RES 10K 1/16W +/-5%"                                                   
+R31             10K                     BottomLayer r0402           236.4324mm   260.5750mm   270      "ROHS CHIP RES 4.7K 1/16W +/-5%"                                                  
+R30             47K                     BottomLayer r0402           234.6452mm   273.2024mm   180      "RES,thick film,47KOhm,+/-5%,1/16W,SMD0402"                                       
+R29             43K                     BottomLayer r0402           233.2228mm   269.9476mm   270      "ROHS CHIP RES 43K 1/16W +/-5%"                                                   
+R28             10K                     BottomLayer r0402           232.6749mm   273.2024mm   180      "RES,thick film,47KOhm,+/-5%,1/16W,SMD0402"                                       
+R27             330K                    BottomLayer r0402           234.3785mm   269.9476mm   90       "ROHS CHIP RES 330K 1/16W +/-5%"                                                  
+R26             100K                    BottomLayer r0402           230.6066mm   274.4216mm   180      "ROHS CHIP RES 100K 1/16W 1%"                                                     
+R25             0R                      BottomLayer r0402           283.3624mm   256.9936mm   270      ÌùÆ¬µç×è                                                                              
+R24             1K5                     BottomLayer r0402           281.0358mm   259.0038mm   90       "RES,thick film,47KOhm,+/-5%,1/16W,SMD0402"                                       
+R23             1K5                     BottomLayer r0402           282.1889mm   259.0038mm   90       "RES,thick film,47KOhm,+/-5%,1/16W,SMD0402"                                       
+R22             10K                     BottomLayer r0402           283.3878mm   249.6530mm   90       ÌùÆ¬µç×è                                                                              
+R21             10K                     BottomLayer r0402           284.3327mm   253.6988mm   180      ÌùÆ¬µç×è                                                                              
+R20             10K                     BottomLayer r0402           281.4320mm   248.6484mm   90       ÌùÆ¬µç×è                                                                              
+R19             NC                      BottomLayer r0402           279.4472mm   256.3876mm   360      ÌùÆ¬µç×è                                                                              
+R18             0R                      BottomLayer r0402           262.4546mm   261.0866mm   180      ÌùÆ¬µç×è                                                                              
+R17             20mR                    TopLayer    R1210           261.9502mm   261.2644mm   360      ÌùÆ¬µç×è                                                                              
+R15             NC                      BottomLayer r0402           280.2355mm   254.7590mm   90       ÌùÆ¬µç×è                                                                              
+R14             120K%1                  TopLayer    r0402           265.1542mm   267.3096mm   360      "ROHS CHIP RES 100K 1/16W 1%"                                                     
+R13             100K                    BottomLayer r0402           275.1364mm   241.9350mm   180      "ROHS CHIP RES 10K 1/16W +/-5%"                                                   
+R12             200K%1                  TopLayer    r0402           265.1542mm   264.8966mm   180      "ROHS CHIP RES 100K 1/16W 1%"                                                     
+R11             20mR                    TopLayer    R1210           271.6276mm   256.1336mm   180      ÌùÆ¬µç×è                                                                              
+R10             0R                      BottomLayer r0402           288.3626mm   249.1749mm   180      ÌùÆ¬µç×è                                                                              
+R9              20K%1                   BottomLayer r0402           288.3626mm   250.3338mm   360      ÌùÆ¬µç×è                                                                              
+R7              5.1K                    BottomLayer r0402           280.2819mm   248.6484mm   90       ÌùÆ¬µç×è                                                                              
+R6              0R                      BottomLayer R0402           279.4254mm   250.7996mm   180      ÌùÆ¬µç×è                                                                              
+"  "            5.1K                    BottomLayer r0402           279.0918mm   248.6627mm   90       ""                                                                                
+R4              100R                    TopLayer    r0402           285.1022mm   242.5892mm   90       "RES,thick film,47KOhm,+/-5%,1/16W,SMD0402"                                       
+R3              100R                    TopLayer    r0402           286.2452mm   242.5892mm   270      "RES,thick film,47KOhm,+/-5%,1/16W,SMD0402"                                       
+R2              100R                    TopLayer    r0402           285.0642mm   236.0676mm   90       "RES,thick film,47KOhm,+/-5%,1/16W,SMD0402"                                       
+R1              100R                    TopLayer    r0402           286.2326mm   236.0676mm   270      "RES,thick film,47KOhm,+/-5%,1/16W,SMD0402"                                       
+Q9              8050                    TopLayer    SOT23           358.5210mm   243.9670mm   360      "NC/Trans NPN,SS8050,25V,1500mA,10~60@Vce=1V,Ic=500mA, SOT-23"                    
+Q8              WPM2341                 TopLayer    SOT23           363.7280mm   244.0100mm   360      "NC/MOSFET-P,WPM2341 ,-20V,+/-8V,-2.8A,56m Ohm@Vgs=-2.5V,44m Ohm@Vgs=-4.5V,SOT23" 
+Q7              WNM2016                 TopLayer    SOT23           353.7888mm   263.9822mm   270      ""                                                                                
+Q6              2SK3018                 TopLayer    SOT23           235.6280mm   240.9190mm   270      "MOSFET-N,WNM2021 ,20V,+/-8V,0.8A,300m Ohm@Vgs=4.5V,SOT23"                        
+Q5              SI2306                  TopLayer    SOT23           231.7320mm   240.9800mm   270      "MOSFET-N,WNM2021 ,20V,+/-8V,0.8A,300m Ohm@Vgs=4.5V,SOT23"                        
+Q4              8050                    TopLayer    SOT23           231.7320mm   244.2870mm   270      "Trans NPN,SS8050,25V,1500mA,10~60@Vce=1V,Ic=500mA, SOT-23"                       
+Q3              8050                    TopLayer    SOT23           234.1474mm   273.0324mm   180      ""                                                                                
+Q2              WPM2341                 TopLayer    SOT23           230.9114mm   273.0324mm   180      "MOSFET-P,WPM2341 ,-20V,+/-8V,-2.8A,56m Ohm@Vgs=-2.5V,44m Ohm@Vgs=-4.5V,SOT23"    
+Q1              WPM2341                 TopLayer    SOT23           275.4412mm   240.9952mm   270      "MOSFET-P,WPM2341 ,-20V,+/-8V,-2.8A,56m Ohm@Vgs=-2.5V,44m Ohm@Vgs=-4.5V,SOT23"    
+P3              TEST                    BottomLayer T-0_7           262.8900mm   265.0236mm   180      ""                                                                                
+P1              TEST                    BottomLayer T-0_7           259.8928mm   265.0236mm   180      ""                                                                                
+MIC1            MIC                     TopLayer    78171-0002      224.9400mm   235.3310mm   270      ""                                                                                
+M1              MOTO                    TopLayer    R1206           358.6466mm   266.7762mm   180      Vibration,R1206,SMT                                                               
+L12             3.3uH/0.7A              TopLayer    IND-3X3         243.0780mm   247.2400mm   270      CoilInd,Shielded(SHLD),1.5uH@100KHz,+/-30%,0.7A,40mOhm,SMD,3.0*3.0*2.0            
+L11             BLM18PG181SN1           TopLayer    L0603           263.2456mm   242.0620mm   90       ""                                                                                
+L10             15uH/1.5A               TopLayer    IND-5X5         356.2586mm   238.1758mm   360      ""                                                                                
+L9              4.7uH/2.5A              TopLayer    IND-3X3         231.7968mm   266.0396mm   360      CoilInd,Shielded(SHLD),4.7uH@100KHz,+/-30%,1.5A,45mOhm,SMD,4.0*4.0*2.0            
+L8              1uH/3A                  TopLayer    IND-5X5         271.1987mm   251.4511mm   270      ""                                                                                
+L7              1uH/1.5A                TopLayer    IND-3X3         289.6524mm   250.1242mm   360      ""                                                                                
+L6              1uH/1.5A                TopLayer    IND-3X3         286.0768mm   247.4281mm   270      ""                                                                                
+L5              1uH/1.5A                TopLayer    IND-3X3         285.4670mm   260.0810mm   360      ""                                                                                
+L4              1uH/1.5A                TopLayer    IND-3X3         281.4356mm   260.0074mm   90       ""                                                                                
+L2              0.33uH/5A               TopLayer    IND-4X4         289.4076mm   240.6156mm   90       ""                                                                                
+L1              0.33uH/5A               TopLayer    IND-4X4         289.6376mm   233.7308mm   0        ""                                                                                
+J7              AA07-P032VA1            TopLayer    AA07P032VA1N    375.1782mm   235.4480mm   90       LCD_CON                                                                           
+J6              78171-0004              TopLayer    78171-0004      375.3920mm   250.8600mm   270      ""                                                                                
+J5              PHONEJACK               BottomLayer J301R05GA6ZL2   222.6900mm   281.3190mm   270      ¶ú²å                                                                                
+J4              TF_SD_SOCKET            BottomLayer TF-CARDKLJ07002 225.5690mm   255.6010mm   270      ""                                                                                
+J3              BL509-04G31             TopLayer    BL509-04G31     224.8650mm   242.0620mm   270      ""                                                                                
+J2              USB                     BottomLayer MICRO_USB_DIP   219.5525mm   270.7940mm   270      ""                                                                                
+J1              505004-0810             TopLayer    505004-0810     261.3914mm   266.1666mm   0        ""                                                                                
+FB6             0R                      TopLayer    L0603           360.6312mm   248.9454mm   360      "ROHS CHIP RES 0 Ohm 1/16W +/-5%"                                                 
+FB5             600R100M                TopLayer    L0402           229.1806mm   282.7528mm   360      "ROHS CHIP RES 33R 1/16W 5%"                                                      
+FB4             600R100M                TopLayer    L0402           229.1806mm   278.9682mm   360      "ROHS CHIP RES 33R 1/16W 5%"                                                      
+FB3             600R100M                TopLayer    L0402           229.1806mm   277.0124mm   360      "ROHS CHIP RES 33R 1/16W 5%"                                                      
+FB2             600R100M                TopLayer    L0402           229.1842mm   284.5816mm   360      "ROHS CHIP RES 33R 1/16W 5%"                                                      
+FB1             NC                      BottomLayer L0603D          226.2886mm   273.3802mm   180      "Chip common mode choke coil,90 ohm@100MHz,0.35 ohm/DCR,50V,330mA,-40¡ãC~+ 85¡ãC"   
+ED24            TESA15R0V09B1X          TopLayer    E0201           371.3480mm   249.0470mm   180      "ESD Component,5V,30P,SMD,0402"                                                   
+ED23            TESA15R0V09B1X          TopLayer    E0201           371.3480mm   250.3170mm   180      "ESD Component,5V,30P,SMD,0402"                                                   
+ED22            TESA15R0V09B1X          TopLayer    E0201           371.3480mm   251.4600mm   180      "NC/ESD Component,5V,30P,SMD,0402"                                                
+ED21            TESA15R0V09B1X          TopLayer    E0201           371.3480mm   252.6030mm   180      "NC/ESD Component,5V,30P,SMD,0402"                                                
+ED20            TESA15R0V09B1X          TopLayer    E0201           228.3460mm   236.1990mm   90       "NC/ESD Component,5V,30P,SMD,0402"                                                
+ED19            TESA15R0V09B1X          TopLayer    E0201           228.3460mm   234.4630mm   270      "NC/ESD Component,5V,30P,SMD,0402"                                                
+ED18            TESA15R0V09B1X          TopLayer    E0201           229.0318mm   285.5214mm   360      "ESD Component,5V,30P,SMD,0402"                                                   
+ED17            TESA15R0V09B1X          TopLayer    E0201           229.0362mm   276.0726mm   360      "ESD Component,5V,30P,SMD,0402"                                                   
+ED16            TESA15R0V09B1X          TopLayer    E0201           229.0362mm   277.9776mm   360      "ESD Component,5V,30P,SMD,0402"                                                   
+ED15            TESA15R0V09B1X          TopLayer    E0201           233.5117mm   258.2164mm   360      "ESD Component,5V,30P,SMD,0402"                                                   
+ED14            TESA15R0V09B1X          TopLayer    E0201           233.5117mm   257.0734mm   360      "ESD Component,5V,30P,SMD,0402"                                                   
+ED13            TESA15R0V09B1X          TopLayer    E0201           233.5117mm   256.0574mm   360      "ESD Component,5V,30P,SMD,0402"                                                   
+ED12            TESA15R0V09B1X          TopLayer    E0201           233.5117mm   253.7714mm   360      "ESD Component,5V,30P,SMD,0402"                                                   
+ED11            TESA15R0V09B1X          TopLayer    E0201           233.5117mm   251.6632mm   360      "ESD Component,5V,30P,SMD,0402"                                                   
+ED10            TESA15R0V09B1X          TopLayer    E0201           233.5117mm   250.5202mm   360      "ESD Component,5V,30P,SMD,0402"                                                   
+ED9             TESA15R0V09B1X          TopLayer    E0201           233.5117mm   249.3772mm   360      "ESD Component,5V,30P,SMD,0402"                                                   
+ED8             TESA15R0V09B1X          TopLayer    E0201           356.8716mm   265.1260mm   360      "ESD Component,5V,30P,SMD,0402"                                                   
+ED7             TESA15R0V09B1X          TopLayer    E0201           360.4304mm   265.1260mm   180      "ESD Component,5V,30P,SMD,0402"                                                   
+ED6             TESA15R0V09B1X          TopLayer    E0201           227.9440mm   242.3160mm   360      "ESD Component,5V,30P,SMD,0402"                                                   
+ED5             TESA15R0V09B1X          TopLayer    E0201           227.9440mm   241.3000mm   360      "ESD Component,5V,30P,SMD,0402"                                                   
+ED4             TESA15R0V09B1X          BottomLayer E0201           223.6128mm   272.2880mm   360      "ESD Component,5V,30P,SMD,0402"                                                   
+ED3             TEPB0R2V12B1X           BottomLayer E0402N          224.2566mm   271.3482mm   360      "ESD Component,5V,30P,SMD,0402"                                                   
+ED2             TEPB0R2V12B1X           BottomLayer E0402N          224.2566mm   269.4940mm   360      "ESD Component,5V,30P,SMD,0402"                                                   
+ED1             TESA15R0V09B1X          BottomLayer E0201           223.6260mm   268.5288mm   0        "ESD Component,5V,30P,SMD,0402"                                                   
+D5              PMEG3030EP              TopLayer    SOD128          363.5600mm   239.0140mm   360      ""                                                                                
+D4              1N5819                  TopLayer    SOD323          358.6226mm   263.4742mm   360      Diode,Schottky,1N5819HW,40V,1A,SOD-123                                            
+D3              IN4148                  TopLayer    SOD323          227.0960mm   245.2370mm   180      Diode,Schottky,1N5819HW,40V,500mA,450mV,SOD-323                                   
+D2              1N5819                  TopLayer    SOD123          225.6965mm   266.4968mm   180      Diode,Schottky,1N5819HW,40V,500mA,450mV                                           
+CON1            Con8_0.5mm              TopLayer    BL509-08G31     375.1380mm   263.0210mm   90       ""                                                                                
+C294            1uF                     BottomLayer c0402           247.1166mm   244.5004mm   360      "RoHS CHIP CAP 8pF +/-1% NPO"                                                     
+C291            NC                      TopLayer    c0402           242.7696mm   234.0864mm   180      "RoHS CHIP CAP 2.2uF +10/-10% X5R"                                                
+C290            10pF                    TopLayer    c0402           243.1796mm   235.7338mm   270      "RoHS CHIP CAP 2.2uF +10/-10% X5R"                                                
+C289            NC                      TopLayer    c0402           242.7696mm   237.4138mm   180      "RoHS CHIP CAP 2.2uF +10/-10% X5R"                                                
+C288            8pF                     TopLayer    c0402           261.1200mm   247.5446mm   270      "RoHS CHIP CAP 8pF +/-1% NPO"                                                     
+C287            8pF                     TopLayer    c0402           261.1200mm   245.4546mm   90       "RoHS CHIP CAP 8pF +/-1% NPO"                                                     
+C286            4.7uF                   TopLayer    C0603           243.0800mm   244.5512mm   360      "RoHS CHIP CAP 4.7uF +10/-10% X5R"                                                
+C285            0.1uF                   BottomLayer c0402           257.5342mm   244.2210mm   360      CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C284            10uF                    TopLayer    C0603           261.5347mm   242.0640mm   270      CAP,MLCC,4.7uF,+/-10%,X5R,6.3V,SMD0603                                            
+C283            2.2uF                   BottomLayer C0402           247.1166mm   248.0056mm   360      "RoHS CHIP CAP 2.2uF +10/-10% X5R"                                                
+C282            1uF                     BottomLayer c0402           247.1130mm   243.3320mm   180      "RoHS CHIP CAP 8pF +/-1% NPO"                                                     
+C281            33pF                    TopLayer    c0402           252.0696mm   249.9142mm   90       CAP,MLCC,10uF,+/-10%,X5R,6.3V,SMD0805                                             
+C280            33pF                    TopLayer    c0402           253.2888mm   249.9142mm   90       CAP,MLCC,10uF,+/-10%,X5R,6.3V,SMD0805                                             
+C279            33pF                    TopLayer    c0402           254.5080mm   249.9142mm   90       CAP,MLCC,10uF,+/-10%,X5R,6.3V,SMD0805                                             
+C278            33pF                    TopLayer    c0402           255.7272mm   249.9142mm   90       CAP,MLCC,10uF,+/-10%,X5R,6.3V,SMD0805                                             
+C277            33pF                    TopLayer    c0402           249.6312mm   249.9142mm   90       CAP,MLCC,10uF,+/-10%,X5R,6.3V,SMD0805                                             
+C276            33pF                    TopLayer    c0402           250.8504mm   249.9142mm   90       CAP,MLCC,10uF,+/-10%,X5R,6.3V,SMD0805                                             
+C275            NC                      TopLayer    c0402           261.4533mm   237.4138mm   360      NC                                                                                
+C274            10pF                    TopLayer    c0402           261.0433mm   235.7338mm   270      "RoHS CHIP CAP 10pF +10/-10% X7R"                                                 
+C273            NC                      TopLayer    c0402           261.4533mm   234.0864mm   360      NC                                                                                
+C272            4.7uF                   TopLayer    C0603           259.8420mm   242.0640mm   270      "RoHS CHIP CAP 4.7uF +10/-10% X5R"                                                
+C271            0.1uF                   BottomLayer c0402           375.9998mm   264.8204mm   360      CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C270            4.7uF                   TopLayer    C0603           374.7750mm   267.4620mm   360      ""                                                                                
+C269            0.1uF                   TopLayer    c0402           360.7090mm   233.9340mm   360      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C268            0.1uF                   BottomLayer c0402           366.3950mm   244.0964mm   270      CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C267            10uF                    TopLayer    C0603           366.3950mm   243.7150mm   270      CAP,MLCC,4.7uF,+/-10%,X5R,6.3V,SMD0603                                            
+C266            0.1uF                   BottomLayer c0402           354.7110mm   245.2080mm   90       "NC/RoHS CHIP CAP0.1uF +10/-10% X5R"                                              
+C265            10uF                    TopLayer    C0603           361.1880mm   243.5840mm   90       "RoHS CHIP CAP 22uF +10/-10% X5R"                                                 
+C264            0.1uF                   TopLayer    c0402           353.6914mm   232.9434mm   360      "RoHS CHIP CAP 1uF +10/-10% 16V X5R"                                              
+C263            10uF                    TopLayer    C0603           353.5934mm   234.3150mm   180      ""                                                                                
+C262            2.2uF/50V               TopLayer    C1206           364.5930mm   235.8390mm   180      "RoHS CHIP CAP 1uF +10/-10% 25V X5R"                                              
+C261            0.1uF                   TopLayer    c0402           353.7168mm   231.7496mm   180      CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C260            0.1uF                   TopLayer    c0402           370.8908mm   231.2811mm   360      CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C259            0.1uF                   TopLayer    c0402           370.8908mm   230.1240mm   360      CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C258            0.1uF                   TopLayer    c0402           378.9390mm   236.4740mm   360      CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C257            0.1uF                   BottomLayer c0402           240.3602mm   271.5732mm   90       CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C256            10uF                    TopLayer    C0603           243.0272mm   271.0232mm   90       ""                                                                                
+C255            NC                      BottomLayer c0402           237.8710mm   275.3614mm   270      CAP,MLCC,8pF,+/-10%,NPO,6.3V,SMD0402                                              
+C254            0.1uF                   TopLayer    c0402           241.5937mm   271.5732mm   90       ""                                                                                
+C253            0.1uF                   TopLayer    c0402           240.4364mm   271.5732mm   90       ""                                                                                
+C251            8pF                     BottomLayer c0402           240.3320mm   275.3614mm   90       CAP,MLCC,8pF,+/-10%,NPO,6.3V,SMD0402                                              
+C247            0.1uF                   BottomLayer c0402           321.1354mm   258.9208mm   360      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C246            0.1uF                   BottomLayer c0402           316.9762mm   261.6350mm   270      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C245            0.1uF                   BottomLayer c0402           318.8949mm   259.5626mm   180      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C244            0.1uF                   BottomLayer c0402           315.8607mm   260.0960mm   90       "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C243            0.1uF                   BottomLayer c0402           320.4718mm   261.6350mm   270      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C242            0.1uF                   BottomLayer c0402           319.3066mm   261.6350mm   270      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C241            0.1uF                   BottomLayer c0402           316.4586mm   258.0894mm   90       "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C240            NC                      BottomLayer c0402           337.9470mm   263.6810mm   270      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C239            10uF                    TopLayer    C0603           334.3910mm   262.7650mm   270      "RoHS CHIP CAP 4.7uF +10/-10% X5R"                                                
+C238            1uF                     BottomLayer c0402           334.3476mm   263.0170mm   270      "RoHS CHIP CAP 4.7uF +10/-10% X5R"                                                
+C237            NC/4.7uF                TopLayer    C0603           339.4710mm   262.7650mm   90       "RoHS CHIP CAP 4.7uF +10/-10% X5R"                                                
+C236            0.1uF                   BottomLayer c0402           321.6366mm   263.6520mm   180      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C235            0.1uF                   TopLayer    c0402           306.9244mm   253.5718mm   270      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C234            0.1uF                   TopLayer    c0402           306.3204mm   264.4140mm   360      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C233            0.1uF                   TopLayer    c0402           306.3204mm   259.0800mm   360      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C232            0.1uF                   BottomLayer c0402           329.4173mm   257.5521mm   360      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C231            0.1uF                   TopLayer    C0201           358.3302mm   250.3347mm   360      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C230            1nF                     TopLayer    c0402           365.1504mm   250.7706mm   90       "RoHS CHIP CAP 1nF +10/-10% X7R"                                                  
+C229            1nF                     TopLayer    c0402           365.1504mm   252.7590mm   270      "RoHS CHIP CAP 1nF +10/-10% X7R"                                                  
+C228            1uF                     TopLayer    C0201           358.2772mm   248.9454mm   180      "RoHS CHIP CAP 10uF +10/-10% X5R"                                                 
+C227            10uF                    TopLayer    C0603           363.6792mm   248.9454mm   360      "RoHS CHIP CAP 10uF +10/-10% X5R"                                                 
+C226            0.1uF                   TopLayer    c0402           360.3970mm   251.7140mm   180      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C225            0.1uF                   TopLayer    c0402           360.3970mm   252.9840mm   360      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C224            1nF                     TopLayer    c0402           365.1504mm   256.1046mm   90       "RoHS CHIP CAP 1nF +10/-10% X7R"                                                  
+C223            1nF                     TopLayer    c0402           365.1504mm   258.0930mm   270      "RoHS CHIP CAP 1nF +10/-10% X7R"                                                  
+C222            10uF                    TopLayer    C0603           359.8438mm   254.3810mm   180      "RoHS CHIP CAP 10uF +10/-10% X5R"                                                 
+C221            0.1uF                   TopLayer    c0402           360.3893mm   257.0664mm   180      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C220            0.1uF                   TopLayer    c0402           358.1680mm   255.7780mm   360      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C219            0.1uF                   TopLayer    c0402           360.3784mm   258.2846mm   360      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C218            100pF                   TopLayer    c0402           230.5050mm   236.3180mm   270      "RoHS CHIP CAP 100pF +10/-10% X7R"                                                
+C217            100pF                   TopLayer    c0402           229.3620mm   234.3440mm   90       "RoHS CHIP CAP 100pF +10/-10% X7R"                                                
+C216            0.1uF                   TopLayer    c0402           231.1872mm   278.9682mm   360      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C215            0.1uF                   TopLayer    c0402           231.1872mm   277.0378mm   360      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C214            100pF                   TopLayer    c0402           230.5050mm   234.3440mm   270      "RoHS CHIP CAP 100pF +10/-10% X7R"                                                
+C213            0.1uF                   BottomLayer c0402           254.2032mm   262.2042mm   180      ""                                                                                
+C212            10uF                    TopLayer    C0603           254.4592mm   262.9408mm   180      ""                                                                                
+C211            0.1uF                   BottomLayer C0201           255.7780mm   261.2350mm   270      ""                                                                                
+C210            10uF                    TopLayer    C0603           233.0450mm   235.5830mm   270      ""                                                                                
+C209            0.1uF                   BottomLayer c0402           229.1878mm   283.3751mm   180      ""                                                                                
+C208            4.7uF                   TopLayer    C0603           254.4592mm   258.2418mm   180      "RoHS CHIP CAP 4.7uF +10/-10% X5R"                                                
+C207            4.7uF                   TopLayer    C0603           254.4572mm   256.6670mm   180      "RoHS CHIP CAP 4.7uF +10/-10% X5R"                                                
+C206            1uF                     TopLayer    c0402           250.4948mm   256.5436mm   90       "RoHS CHIP CAP 4.7uF +10/-10% X5R"                                                
+C205            2.2uF                   TopLayer    C0603           250.9012mm   265.1708mm   270      "RoHS CHIP CAP 2.2uF +10/-10% X5R"                                                
+C204            2.2uF                   TopLayer    C0603           254.4592mm   264.5156mm   180      "RoHS CHIP CAP 2.2uF +10/-10% X5R"                                                
+C203            4.7uF                   TopLayer    C0603           243.2650mm   256.5908mm   360      "RoHS CHIP CAP 2.2uF +10/-10% X5R"                                                
+C202            0.1uF                   TopLayer    c0402           243.6880mm   257.9878mm   360      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C201            0.1uF                   TopLayer    c0402           243.6840mm   260.7818mm   360      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C200            2.2uF                   TopLayer    C0603           254.4572mm   259.8166mm   360      "RoHS CHIP CAP 2.2uF +10/-10% X5R"                                                
+C199            0.1uF                   TopLayer    c0402           249.3264mm   256.5618mm   90       "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C198            0.1uF                   TopLayer    c0402           248.1411mm   256.5618mm   90       "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C196            0.1uF                   TopLayer    c0402           245.7704mm   256.5618mm   270      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C195            2.2uF                   TopLayer    C0603           243.1380mm   259.3848mm   360      "RoHS CHIP CAP 2.2uF +10/-10% X5R"                                                
+C194            0.1uF                   BottomLayer c0402           233.6764mm   254.8192mm   360      CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C193            10uF                    TopLayer    C0603           234.4332mm   254.9144mm   180      CAP,MLCC,10uF,+/-10%,X5R,6.3V,SMD0805                                             
+C191            0.1uF                   BottomLayer c0402           304.9570mm   238.8602mm   90       CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C190            1uF                     BottomLayer c0402           303.7840mm   238.8362mm   270      CAP,MLCC,10uF,+/-10%,X5R,6.3V,SMD0805                                             
+C189            10uF                    TopLayer    C0603           365.4044mm   264.1346mm   90       CAP,MLCC,10uF,+/-10%,X5R,6.3V,SMD0805                                             
+C188            0.1uF                   TopLayer    c0402           364.0328mm   264.6846mm   90       CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C187            10nF                    BottomLayer C0201           306.1208mm   238.8870mm   90       CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C186            10PF                    BottomLayer c0402           304.7782mm   241.3472mm   360      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C185            1uF                     BottomLayer c0402           302.0786mm   243.4844mm   180      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C184            0.1uF                   BottomLayer c0402           305.3334mm   232.3302mm   270      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C183            0.1uF                   BottomLayer c0402           303.9582mm   234.5182mm   180      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C182            0.22uF                  BottomLayer c0402           301.4182mm   234.5182mm   180      "RoHS CHIP CAP 0.22uF +10/-10% X7R"                                               
+C181            0.1uF                   BottomLayer c0402           302.0786mm   242.3287mm   360      ""                                                                                
+C180            0.1uF                   BottomLayer c0402           304.7782mm   242.5047mm   360      ""                                                                                
+C179            4.7uF                   TopLayer    C0603           301.4472mm   236.6772mm   90       "RoHS CHIP CAP 4.7uF +10/-10% X5R"                                                
+C178            4.7uF                   TopLayer    C0603           331.3928mm   251.5448mm   90       CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C177            0.1uF                   BottomLayer c0402           323.0956mm   247.0737mm   270      CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C176            0.1uF                   BottomLayer c0402           315.8929mm   236.1563mm   270      ""                                                                                
+C175            0.1uF                   BottomLayer c0402           315.7510mm   237.6424mm   360      CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C174            0.1uF                   BottomLayer c0402           321.0814mm   245.9954mm   270      CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C173            0.1uF                   TopLayer    c0402           370.8908mm   240.5380mm   360      CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C172            0.1uF                   TopLayer    c0402           370.8908mm   239.3809mm   360      CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C171            0.1uF                   TopLayer    c0402           370.8908mm   238.2238mm   360      CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C170            0.1uF                   TopLayer    c0402           370.8908mm   237.0667mm   360      CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C169            0.1uF                   TopLayer    c0402           370.8908mm   235.9096mm   360      CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C168            0.1uF                   TopLayer    c0402           370.8908mm   234.7524mm   360      CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C167            0.1uF                   TopLayer    c0402           370.8908mm   233.5953mm   360      CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+"  "            0.1uF                   TopLayer    c0402           370.8908mm   232.4382mm   360      ""                                                                                
+C165            10uF                    TopLayer    C0603           288.3662mm   263.7386mm   90       CAP,MLCC,4.7uF,+/-10%,X5R,6.3V,SMD0603                                            
+C164            0.1uF                   BottomLayer c0402           315.5406mm   244.2464mm   180      CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C163            0.1uF                   BottomLayer c0402           315.8998mm   245.9772mm   90       CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C162            0.1uF                   BottomLayer c0402           317.0682mm   245.9736mm   90       CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C161            0.1uF                   BottomLayer c0402           318.7396mm   245.9954mm   90       CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C160            1uF                     BottomLayer c0402           319.9080mm   245.9954mm   90       CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C159            0.1uF                   BottomLayer c0402           313.2836mm   243.4844mm   180      CAP,MLCC,1uF,+/-10%,X5R,6.3V,SMD0402                                              
+C158            1nF                     BottomLayer c0402           232.7148mm   241.3254mm   270      "RoHS CHIP CAP 1nF +10/-10% X7R"                                                  
+C157            22uF                    TopLayer    C0805           236.2360mm   244.4750mm   180      "RoHS CHIP CAP 4.7uF 25V +10/-10% 16V X7R"                                        
+C156            0.1uF                   BottomLayer c0402           314.1472mm   242.2144mm   360      ÌùÆ¬µçÈÝ                                                                              
+C155            0.1uF                   BottomLayer c0402           316.3062mm   234.5690mm   180      ÌùÆ¬µçÈÝ                                                                              
+C154            0.1uF                   BottomLayer c0402           314.5536mm   233.9594mm   90       ÌùÆ¬µçÈÝ                                                                              
+C153            0.1uF                   BottomLayer c0402           318.9236mm   236.4740mm   180      ÌùÆ¬µçÈÝ                                                                              
+C152            1nF                     BottomLayer c0402           325.0184mm   239.3696mm   90       ""                                                                                
+C151            NC                      TopLayer    c0402           336.8040mm   249.9868mm   180      ""                                                                                
+C150            1nF                     BottomLayer C0201           338.1002mm   247.7057mm   270      ""                                                                                
+C149            0.1uF                   TopLayer    c0402           336.8040mm   252.3744mm   360      ""                                                                                
+C148            0.1uF                   BottomLayer C0201           333.2452mm   247.5566mm   270      ""                                                                                
+C147            0.1uF                   BottomLayer c0402           332.8924mm   235.9406mm   180      ""                                                                                
+C146            0.1uF                   BottomLayer c0402           346.0968mm   233.2990mm   180      ""                                                                                
+C145            0.1uF                   BottomLayer c0402           341.8605mm   247.2355mm   90       ""                                                                                
+C144            0.1uF                   BottomLayer c0402           342.3412mm   239.1954mm   90       ""                                                                                
+C143            0.1uF                   BottomLayer c0402           323.0118mm   237.9472mm   90       ""                                                                                
+C142            0.1uF                   BottomLayer c0402           333.3496mm   240.2493mm   360      ""                                                                                
+C141            0.1uF                   BottomLayer c0402           342.3158mm   241.2528mm   270      ""                                                                                
+C140            10uF                    TopLayer    C0603           335.0768mm   232.7910mm   360      ""                                                                                
+C139            0.1uF                   TopLayer    c0402           335.4324mm   255.2664mm   90       CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C138            0.1uF                   TopLayer    c0402           335.4578mm   257.3238mm   270      CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402                                            
+C137            4.7uF                   TopLayer    C0603           340.3854mm   255.5748mm   270      CAP,MLCC,10uF,+/-10%,X5R,6.3V,SMD0805                                             
+C136            1uF                     TopLayer    c0402           340.5886mm   257.7592mm   180      CAP,MLCC,10uF,+/-10%,X5R,6.3V,SMD0805                                             
+C135            0.1uF                   BottomLayer C0201           342.4174mm   235.3056mm   360      ""                                                                                
+C134            0.1uF                   BottomLayer c0402           335.0768mm   248.0056mm   90       ""                                                                                
+C133            0.1uF                   BottomLayer c0402           333.2952mm   245.6180mm   270      ""                                                                                
+C131            22uF                    TopLayer    C0805           334.8228mm   251.2408mm   270      ""                                                                                
+C130            0.1uF                   BottomLayer c0402           323.3892mm   239.7252mm   180      ""                                                                                
+C129            1uF                     BottomLayer c0402           337.1342mm   234.8702mm   270      ""                                                                                
+C128            10uF                    TopLayer    C0603           344.3244mm   233.0450mm   360      ""                                                                                
+C127            22uF                    TopLayer    C0805           346.7956mm   250.2916mm   360      ""                                                                                
+C104            0.1uF                   BottomLayer c0402           323.0363mm   243.8331mm   270      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C102            4.7uF                   TopLayer    C0603           333.0998mm   251.5532mm   90       ÌùÆ¬µçÈÝ                                                                              
+C101            0.1uF                   BottomLayer c0402           315.3156mm   241.3036mm   270      ÌùÆ¬µçÈÝ                                                                              
+C100            0.1uF                   BottomLayer c0402           311.0738mm   240.3856mm   180      ÌùÆ¬µçÈÝ                                                                              
+C98             8pF                     TopLayer    c0402           304.3936mm   246.4852mm   270      ""                                                                                
+C97             8pF                     TopLayer    c0402           304.3936mm   248.5172mm   90       ""                                                                                
+C96             0.1uF                   BottomLayer c0402           310.5658mm   239.1918mm   180      ÌùÆ¬µçÈÝ                                                                              
+C95             10nF                    BottomLayer c0402           228.1834mm   266.3226mm   270      "RoHS CHIP CAP 10nF +10/-10% X7R"                                                 
+C94             1uF                     BottomLayer c0402           224.7240mm   266.3226mm   90       "RoHS CHIP CAP 1uF +10/-10% X5R"                                                  
+C93             10uF                    TopLayer    C0603           224.3565mm   268.6050mm   360      ""                                                                                
+C92             0.1uF                   BottomLayer c0402           223.5708mm   266.3226mm   90       ÌùÆ¬µçÈÝ                                                                              
+C91             1nF                     BottomLayer c0402           318.5160mm   240.6396mm   90       ""                                                                                
+C90             0.1uF                   BottomLayer c0402           317.2206mm   240.6396mm   90       ""                                                                                
+C89             0.1uF                   BottomLayer c0402           317.1408mm   238.9886mm   180      ""                                                                                
+C88             0.1uF                   BottomLayer c0402           319.0993mm   238.9759mm   360      ""                                                                                
+C87             0.1uF                   BottomLayer c0402           318.9236mm   237.6424mm   360      ""                                                                                
+C86             1uF                     BottomLayer c0402           317.2714mm   237.3086mm   270      ""                                                                                
+C85             22uF                    TopLayer    C0805           296.3164mm   241.0206mm   270      CAP,MLCC,47uF,+/-10%,X5R,4V,SMD1210                                               
+C84             22uF                    TopLayer    C0805           296.7228mm   233.8738mm   90       ""                                                                                
+C83             10uF                    TopLayer    C0603           309.0148mm   239.1156mm   270      CAP,MLCC,10uF,+/-10%,X5R,6.3V,SMD0805                                             
+C82             22uF                    TopLayer    C0805           309.0164mm   235.6866mm   90       ""                                                                                
+C81             1nF                     BottomLayer c0402           319.7860mm   243.8654mm   90       ""                                                                                
+C80             0.1uF                   BottomLayer c0402           319.4558mm   242.2906mm   180      ""                                                                                
+C79             0.1uF                   BottomLayer c0402           318.5668mm   243.8400mm   90       ""                                                                                
+C78             0.1uF                   BottomLayer c0402           317.6270mm   242.2906mm   360      ""                                                                                
+C77             0.1uF                   BottomLayer c0402           309.2196mm   245.6906mm   270      ""                                                                                
+C76             1uF                     BottomLayer c0402           319.8622mm   240.6396mm   270      ""                                                                                
+C75             22uF                    TopLayer    C0805           309.0672mm   248.7422mm   270      ""                                                                                
+C74             10uF                    TopLayer    C0603           309.1164mm   245.2878mm   90       ""                                                                                
+C73             1nF                     BottomLayer c0402           321.1322mm   238.1504mm   270      ""                                                                                
+C72             0.1uF                   BottomLayer c0402           321.4660mm   240.9190mm   180      ""                                                                                
+C71             0.1uF                   BottomLayer c0402           323.3674mm   242.2906mm   360      ""                                                                                
+C70             0.1uF                   BottomLayer c0402           321.7672mm   243.9162mm   90       ""                                                                                
+C69             10uF                    TopLayer    C0603           289.5854mm   245.2878mm   360      ""                                                                                
+C68             10uF                    TopLayer    C0603           295.5544mm   230.6828mm   360      CAP,MLCC,10uF,+/-10%,X5R,6.3V,SMD0805                                             
+C67             1uF                     BottomLayer c0402           235.3020mm   260.5750mm   90       "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C66             1uF                     BottomLayer c0402           233.2990mm   263.0750mm   180      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C65             1uF                     BottomLayer c0402           235.7120mm   263.0750mm   360      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C64             22uF                    TopLayer    C0805           238.5060mm   266.1760mm   270      "RoHS CHIP CAP 10uF +10/-10% X5R"                                                 
+C63             22pF                    BottomLayer c0402           235.5342mm   269.9476mm   270      "RoHS CHIP CAP 22pF 1% NPO"                                                       
+C62             10uF                    TopLayer    C0603           229.0572mm   269.5214mm   90       "RoHS CHIP CAP 10uF +10/-10% X5R"                                                 
+C61             0.1uF                   BottomLayer c0402           230.6066mm   273.2024mm   180      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C57             0.1uF                   BottomLayer c0402           282.8036mm   254.1270mm   90       ""                                                                                
+C56             4.7uF                   TopLayer    C0603           263.3496mm   258.6248mm   180      ÌùÆ¬µçÈÝ                                                                              
+C55             4.7uF                   TopLayer    C0603           265.9634mm   256.0682mm   270      ÌùÆ¬µçÈÝ                                                                              
+C54             4.7uF                   TopLayer    C0603           259.3974mm   256.2666mm   270      ÌùÆ¬µçÈÝ                                                                              
+C53             0.1uF                   BottomLayer c0402           281.8130mm   250.8250mm   270      ""                                                                                
+C52             1uF                     BottomLayer c0402           283.3421mm   259.0038mm   270      ""                                                                                
+C51             12pF                    TopLayer    c0402           291.5656mm   257.9875mm   180      ""                                                                                
+C50             1uF                     BottomLayer c0402           277.9776mm   253.7460mm   90       ""                                                                                
+C49             12pF                    TopLayer    c0402           293.6330mm   257.9934mm   360      ""                                                                                
+C48             1uF                     BottomLayer c0402           284.4952mm   259.0038mm   90       ""                                                                                
+C47             1uF                     BottomLayer c0402           285.6484mm   259.0038mm   90       ""                                                                                
+C46             4.7uF                   TopLayer    C0603           293.6236mm   256.2710mm   360      ""                                                                                
+C45             4.7uF                   TopLayer    C0603           293.6236mm   251.2227mm   360      ""                                                                                
+C44             1uF                     BottomLayer c0402           279.1458mm   254.4933mm   90       ""                                                                                
+C43             1uF                     BottomLayer c0402           285.9024mm   249.6530mm   270      ""                                                                                
+C42             1uF                     BottomLayer c0402           284.6451mm   249.6530mm   270      ""                                                                                
+C41             10uF                    TopLayer    C0603           275.9922mm   257.3020mm   180      ""                                                                                
+C40             0.1uF                   TopLayer    c0402           265.1542mm   266.1031mm   360      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C39             1uF                     BottomLayer c0402           287.1541mm   253.1618mm   360      ""                                                                                
+C38             22uF                    TopLayer    C0805           276.7682mm   252.0188mm   180      ""                                                                                
+C37             1uF                     BottomLayer c0402           287.2990mm   256.5081mm   90       ""                                                                                
+C36             1uF                     BottomLayer c0402           288.4932mm   256.4892mm   90       ""                                                                                
+C35             1uF                     BottomLayer c0402           260.8834mm   265.4772mm   270      "RoHS CHIP CAP 1uF +10/-10% 16V X5R"                                              
+C34             1uF                     BottomLayer c0402           287.1541mm   254.3996mm   360      ""                                                                                
+C33             0.1uF                   BottomLayer c0402           277.6438mm   240.8174mm   360      "RoHS CHIP CAP 0.1uF +10/-10% X7R"                                                
+C32             10uF                    TopLayer    C0603           278.1626mm   240.0574mm   90       "RoHS CHIP CAP 10uF +10/-10% X5R"                                                 
+C31             22uF                    TopLayer    C0805           271.2306mm   258.7498mm   180      ""                                                                                
+C30             4.7uF                   TopLayer    C0603           293.6236mm   254.7152mm   360      ""                                                                                
+C29             4.7uF                   TopLayer    C0603           293.6236mm   252.9055mm   360      ""                                                                                
+C28             10uF                    TopLayer    C0603           293.6006mm   249.5400mm   360      ""                                                                                
+C27             0.1uF                   BottomLayer c0402           290.3256mm   248.0160mm   180      ""                                                                                
+C26             22uF                    TopLayer    C0805           293.9636mm   247.6350mm   360      ""                                                                                
+C25             10uF                    TopLayer    C0603           280.3745mm   248.2563mm   270      ""                                                                                
+C24             0.1uF                   BottomLayer c0402           288.3626mm   248.0160mm   360      ""                                                                                
+C23             22uF                    TopLayer    C0805           289.8046mm   247.6350mm   360      ""                                                                                
+C22             10uF                    TopLayer    C0603           278.7616mm   248.2309mm   270      ""                                                                                
+C21             10uF                    TopLayer    C0603           284.5774mm   263.7386mm   90       ""                                                                                
+C20             10uF                    TopLayer    C0603           286.3342mm   263.7386mm   90       ""                                                                                
+C19             4.7uF                   TopLayer    C0603           288.5948mm   260.2230mm   90       ""                                                                                
+C18             4.7uF                   TopLayer    C0603           289.4646mm   256.2710mm   360      ""                                                                                
+C17             4.7uF                   TopLayer    C0603           289.5916mm   254.6200mm   360      ""                                                                                
+C16             22uF                    TopLayer    C0805           289.9316mm   252.8420mm   360      ""                                                                                
+C15             10uF                    TopLayer    C0603           279.5863mm   263.7386mm   90       ""                                                                                
+C14             10uF                    TopLayer    C0603           281.2030mm   263.7386mm   90       ""                                                                                
+C13             4.7uF                   TopLayer    C0603           281.9366mm   248.2309mm   270      ""                                                                                
+C12             4.7uF                   TopLayer    C0603           290.1696mm   260.2230mm   90       ""                                                                                
+C11             10uF                    TopLayer    C0603           275.7932mm   263.7366mm   90       ""                                                                                
+C10             10uF                    TopLayer    C0603           277.5500mm   263.7386mm   90       ""                                                                                
+C9              4.7uF                   TopLayer    C0603           275.7128mm   253.7206mm   180      ""                                                                                
+C8              4.7uF                   TopLayer    C0603           275.6861mm   255.3132mm   180      ""                                                                                
+C7              22uF                    TopLayer    C0805           292.5318mm   241.0206mm   270      ""                                                                                
+C6              10uF                    TopLayer    C0603           283.1592mm   239.8776mm   90       ""                                                                                
+C5              4.7uF                   TopLayer    C0603           282.8198mm   263.7386mm   90       ""                                                                                
+C4              22uF                    TopLayer    C0805           294.4368mm   241.0206mm   270      ""                                                                                
+C3              22uF                    TopLayer    C0805           294.8686mm   233.8738mm   270      ""                                                                                
+C2              22uF                    TopLayer    C0805           293.0906mm   233.8738mm   270      ""                                                                                
+C1              10uF                    TopLayer    C0603           283.1592mm   233.2990mm   90       ""                                                                                
+ANT2            CON_IPEX                TopLayer    ANT-JACKA-1     243.1796mm   229.7085mm   270      "Atanna jack,3pin,SMT"                                                            
+ANT1            CON_IPEX                TopLayer    ANT-JACKA-1     261.0323mm   229.7085mm   270      "Atanna jack,3pin,SMT"                                                            

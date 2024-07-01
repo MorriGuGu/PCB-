@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: RK3288.PcbDoc   2024/6/30  18:02:34
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom
+ASCII RoundHoles File : RK3288-RoundHoles.TXT
+ASCII SlotHoles File : RK3288-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.203mm)                                            Round             1423      PTH        0.00inch (0.00mm)
+T2      16mil (0.406mm)                                           Round             275       PTH        0.00inch (0.00mm)
+T3      26mil (0.65mm)                                            Slot              4         PTH        0.00inch (0.00mm)
+T4      30mil (0.762mm)                                           Slot              5         PTH        0.00inch (0.00mm)
+T5      35mil (0.9mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T6      58mil (1.473mm)                                           Round             1         NPTH       0.00inch (0.00mm)
+T7      62mil (1.573mm)                                           Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1711
+
+Total Processing Time (hh:mm:ss) : 00:00:06
